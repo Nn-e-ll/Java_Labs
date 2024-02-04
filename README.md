@@ -1,2 +1,2 @@
 # Java_Labs
-Java_Labs
+Лабораторные работы по Java
